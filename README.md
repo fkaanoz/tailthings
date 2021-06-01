@@ -1,1 +1,2 @@
-# tailthings "things with Tailwind"
+# TailThings
+Some ugly things which are made with TailWindCSS.
